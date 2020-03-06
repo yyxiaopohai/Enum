@@ -1,0 +1,2 @@
+error: failed to push some refs to 'https://github.com/yyxiaopohai/Enum.git'
+解决：git push origin master -f
